@@ -1,5 +1,4 @@
 <resources>
     <string name="app_name">CountriesCodeChallenge</string>
     <string name="retry">Retry</string>
-    <string name="country_title_and_region">%1$s, %2$s</string>
 </resources>
