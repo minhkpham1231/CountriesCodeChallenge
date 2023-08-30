@@ -1,4 +1,4 @@
-package com.example.CountriesCodeChallenge
+package com.example.countriescodechallenge
 
 import org.junit.Test
 

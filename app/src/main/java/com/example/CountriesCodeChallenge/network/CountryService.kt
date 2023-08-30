@@ -1,6 +1,6 @@
-package com.example.CountriesCodeChallenge.network
+package com.example.countriescodechallenge.network
 
-import com.example.CountriesCodeChallenge.model.Country
+import com.example.countriescodechallenge.model.Country
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Response

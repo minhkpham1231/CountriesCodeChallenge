@@ -1,12 +1,12 @@
-package com.example.CountriesCodeChallenge.countryviewmodel
+package com.example.countriescodechallenge.countryviewmodel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.CountriesCodeChallenge.network.CountryRepository
-import com.example.CountriesCodeChallenge.network.CountryRepositoryImpl
-import com.example.CountriesCodeChallenge.util.State
+import com.example.countriescodechallenge.network.CountryRepository
+import com.example.countriescodechallenge.network.CountryRepositoryImpl
+import com.example.countriescodechallenge.util.State
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 

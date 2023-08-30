@@ -1,8 +1,8 @@
-package com.example.CountriesCodeChallenge.network
+package com.example.countriescodechallenge.network
 
-import com.example.CountriesCodeChallenge.util.FailureResponse
-import com.example.CountriesCodeChallenge.util.NullResponseException
-import com.example.CountriesCodeChallenge.util.State
+import com.example.countriescodechallenge.util.FailureResponse
+import com.example.countriescodechallenge.util.NullResponseException
+import com.example.countriescodechallenge.util.State
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow
 

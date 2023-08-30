@@ -1,4 +1,4 @@
-package com.example.CountriesCodeChallenge.ui.theme
+package com.example.countriescodechallenge.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

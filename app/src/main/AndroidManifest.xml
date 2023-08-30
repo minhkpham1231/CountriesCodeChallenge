@@ -13,7 +13,7 @@
         android:theme="@style/Theme.MaterialComponents.DayNight.NoActionBar"
         tools:targetApi="31">
         <activity
-            android:name="com.example.CountriesCodeChallenge.MainActivity"
+            android:name="com.example.countriescodechallenge.MainActivity"
             android:exported="true"
             android:label="@string/app_name">
             <intent-filter>

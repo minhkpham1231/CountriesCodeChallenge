@@ -1,4 +1,4 @@
-package com.example.CountriesCodeChallenge.model
+package com.example.countriescodechallenge.model
 
 import com.google.gson.annotations.SerializedName
 

@@ -1,11 +1,11 @@
-package com.example.CountriesCodeChallenge.view
+package com.example.countriescodechallenge.view
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
-import com.example.CountriesCodeChallenge.model.Country
+import com.example.countriescodechallenge.model.Country
 import com.example.myapplication.databinding.CountryItemBinding
 
 class CountryListAdapter : ListAdapter<Country, CountryListAdapter.ItemViewholder>(DiffCallback())  {

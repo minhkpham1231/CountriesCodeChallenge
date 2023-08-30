@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/MainFragment"
-        android:name="com.example.CountriesCodeChallenge.view.MainFragment"
+        android:name="com.example.countriescodechallenge.view.MainFragment"
         tools:layout="@layout/fragment_main">
     </fragment>
 </navigation>

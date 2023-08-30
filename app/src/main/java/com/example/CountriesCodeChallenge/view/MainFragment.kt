@@ -1,4 +1,4 @@
-package com.example.CountriesCodeChallenge.view
+package com.example.countriescodechallenge.view
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -10,9 +10,9 @@ import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.CountriesCodeChallenge.countryviewmodel.CountryViewModel
-import com.example.CountriesCodeChallenge.model.Country
-import com.example.CountriesCodeChallenge.util.State
+import com.example.countriescodechallenge.countryviewmodel.CountryViewModel
+import com.example.countriescodechallenge.model.Country
+import com.example.countriescodechallenge.util.State
 import com.example.myapplication.databinding.FragmentMainBinding
 
 

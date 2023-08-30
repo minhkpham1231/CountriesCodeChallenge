@@ -1,4 +1,4 @@
-package com.example.CountriesCodeChallenge.util
+package com.example.countriescodechallenge.util
 
 sealed class State {
     data class LOADING(val loading: Boolean = true) : State()

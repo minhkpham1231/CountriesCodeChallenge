@@ -1,4 +1,4 @@
-package com.example.CountriesCodeChallenge
+package com.example.countriescodechallenge
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
